@@ -1,0 +1,289 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Nav
+{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 400px;
+    margin: 0;
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* display: flex; */
+}
+.wholenav
+{
+    display: flex;
+}
+.titleinfo
+{
+    margin-left: 70px;
+    width: 100%;
+    height: 60px;
+    /* background-color: yellow; */
+
+}
+.title
+{
+
+    margin-left: 120px;
+    padding: 10px;
+    color: white;
+    width: 100%;
+    height: 60px;
+    /* background-color: yellowgreen; */
+}
+.titleinfo ul li a
+{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+.titleinfo ul li
+{
+    text-decoration: none;
+    padding: 10px;
+    list-style-type: none;
+}
+.titleinfo ul li a :hover
+{
+    background-color: green;
+}
+#con
+{
+    text-align: center;
+    margin-top: 60px;
+    font-weight: bold;
+    color: white;
+}
+#para
+{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold
+}
+.Main
+{
+    display: flex;
+    width: 100%;
+    height: 350px;
+    /* background-color: aquamarine; */
+    margin-top: 15px;
+}
+.main1
+{
+    /* background-color: cadetblue; */
+    width: 50%;
+}
+.main2
+{
+    /* background-color: lightgoldenrodyellow; */
+    width: 50%;
+}
+#get
+{
+    margin-left: 120px;
+    margin-top: 60px;
+    font-weight: 20px;
+    color: green;
+}
+#fe
+{
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 35px;
+}
+#lpara
+{
+    margin-left: 120px;
+    justify-content: center;
+    margin-top: 15px;
+}
+#frm
+{
+    margin-top: 40px;
+}
+#na
+{
+    border-radius: 8px;
+    border-style: 1px black;
+}
+#submit
+{
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    border-style: none;
+}
+.Main2{
+    display: flex;
+    height: 400px;
+    width: 100%;
+    /* background-color: chartreuse; */
+    margin-top: 15px;
+}
+.main3
+{
+    width: 50%;
+    height: 400px;
+    /* background-color: beige; */
+}
+.main4
+{
+    width: 50%;
+    height: 400px;
+    background-color: #e1f5ec;
+    /* background-color: cornflowerblue; */
+}
+#Loc
+{
+    margin-left: 120px;
+    /* color: green; */
+    margin-top: 60px;
+}
+#help
+{
+    margin-left: 120px;
+    margin-top: 10px;
+    font-size: 45px
+}
+#hpara
+{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#add
+{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#supp
+{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#cont
+{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+ input::placeholder
+{
+    font-style: italic;
+    text-align: center;
+    /* background-color: #e1f5ec; */
+} 
+.Main3
+{
+    /* background-color: rgb(110, 110, 59); */
+    width: 100%;
+    height: 140px;
+}
+.main5
+{
+    margin-top: 15px;
+}
+#net
+{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.icon
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.Footer1
+{
+    width: 100%;
+    height: 320px;
+    background-color: #e1f5ec;
+    display: flex;
+}
+.f1{
+    /* background-color: aqua; */
+    width: 25%;
+    height: 350px;
+}
+.f2{
+    /* background-color: aquamarine; */
+    width: 25%;
+    height: 350px;
+}
+.f3{
+    /* background-color: aqua; */
+    width: 25%;
+    height: 350px;
+}
+.f4{
+    /* background-color: aquamarine; */
+    width: 25%;
+    height: 350px;
+}
+#t1
+{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+#t2
+{
+    margin-left: 80px;
+    font-size: large;
+    margin-top: 10px;
+}
+#p1
+{
+    margin-left: 80px;
+    font-size: smaller;
+    margin-top: 10px;
+}
+#c1
+{
+    text-align: center;
+    margin-top: 80px;
+}
+#o1
+{
+    text-align: center;
+    margin-top: 15px;
+}
+#Supp
+{
+    text-align: center;
+    margin-top: 80px;   
+}
+#o2
+{
+    text-align: center;
+    margin-top: 15px;
+}
+#em1
+{
+    margin-top: 80px;
+    font-size: smaller;
+    margin-left: 150px;
+}
+#no
+{
+    color: green;
+    margin-left: 150px;
+}
+#wap
+{
+    margin-left: 90px;
+}
+.iconss
+{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.lastf
+{
+    height: 30px;
+    background-color: #00384f;
+}
